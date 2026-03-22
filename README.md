@@ -31,6 +31,7 @@ Requisitos da modelagem:
 
 Entidades utilizadas:
 
+- Endereço
 - Cliente  
 - Funcionário  
 - Veículo  
@@ -103,12 +104,16 @@ O dashboard foi utilizado para gerar insights sobre o comportamento dos dados.
 
 ## 📁 Arquivos do Projeto
 
-- modelo_conceitual.png  
-- script.sql  
-- notebook.ipynb  
-- dataset.csv  
-- dashboard.pbix  
-- analise.docx  
+- modelo_conceitual_concessionaria.brM3  
+- modelo_conceitual_concessionaria.png
+- modelo_logico_concessionaria.brM3  
+- modelo_logico_concessionaria.png    
+- queries_velozcar.sql
+- Relatorio_VelozCar.docx  
+- etl_machine_learning_academia.ipynb  
+- academia_club4_limpo.csv  
+- dashboard_academia.pbix  
+- analise_dashboard.docx  
 - README.md  
 
 ---
