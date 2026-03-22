@@ -1,4 +1,4 @@
-# 📌 Desafio_Final_WKS_26.1
+# 📌 Desafio Final do Workshop 2026.1 – Fábrica de Software
 
 Este repositório contém a resolução do **Desafio Final do Workshop 2026.1 – Fábrica de Software**.  
 O objetivo do desafio foi aplicar na prática conceitos de modelagem de banco de dados, SQL, análise de dados com Python, Machine Learning e criação de dashboards no Power BI, simulando um projeto real de desenvolvimento de software.
